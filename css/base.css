@@ -1,0 +1,33 @@
+body
+{
+	font-family: Verdana;
+	margin: 0;
+	padding: 0;
+}
+nav
+{
+	background-color: #222222;
+}
+.h1agregar
+{
+	color: #125579;
+	font-family: Verdana;
+	margin-top: 60px;
+	margin-bottom: 50px;
+	font-size: 50px;
+}
+
+.footer1
+{
+	background-color: #222222;
+	color: white;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+
+.div-footer
+{
+	margin-top: 10px;
+	padding-top: 65px;
+	border-top: 1px solid red;
+}
